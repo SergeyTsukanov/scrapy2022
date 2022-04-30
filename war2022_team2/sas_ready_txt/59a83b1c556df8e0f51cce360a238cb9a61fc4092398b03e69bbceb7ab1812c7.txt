@@ -1,0 +1,3 @@
+﻿#
+
+{"xEiiy1":{"socialList":["Twitter","Youtube","Facebook","Instagram","Website","Signature"],"twitterUsername":"AndreyKondor","instagramUsername":"","youtubeChannelUid":"https://www.youtube.com/channel/UCAhgurySwJUFrDVgBRP9-DQ","facebookUsername":"","websiteUrl":"https://t.me/kapitalist2kapitalist"}}
