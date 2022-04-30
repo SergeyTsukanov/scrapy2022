@@ -1,3 +1,0 @@
-﻿B
-
-{"juFRUQ":{"socialList":["Twitter","Youtube","Facebook","Instagram","Website","Signature"],"twitterUsername":"","instagramUsername":"","youtubeChannelUid":"https://www.youtube.com/channel/UCgdsZEp1RGXJRK4I7nULrkw","facebookUsername":"","websiteUrl":"https://t.me/KlinkovTrading"}}
